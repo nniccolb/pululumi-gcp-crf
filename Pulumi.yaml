@@ -1,0 +1,3 @@
+name: pulumi-gcp-demo
+runtime: nodejs
+description: Secure GCP Cloud Function deployed with Pulumi
